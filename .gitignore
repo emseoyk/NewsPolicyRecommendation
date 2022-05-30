@@ -1,0 +1,19 @@
+# 다음과 같은 확장자는 무시
+
+*.csv
+*.xlsx
+*.pkl
+*.docx
+*.pdf
+*.npy
+*.bin
+*.bin.gz
+*.tsv
+*.model
+*.html
+*.index
+*.vocab
+
+LDA/Mecab-ko-for-Google-Colab
+LDA/news_corpus
+LDA/news_dict
