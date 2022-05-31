@@ -1,4 +1,4 @@
-# 뉴스 토픽 변화 분석과 정책 추천
+# 뉴스 토픽 변화 분석과 정책 추천 
 
 2022년 1학기 연세대학교 '데이터마이닝이론및응용' (이원상 교수님) 
 
@@ -16,7 +16,6 @@
 │   ├── PolicyLDA
 │   └── PolicyPreprocessedData
 ├── LDA
-│   ├── Mecab-ko-for-Google-Colab
 │   ├── NewsLDA.ipynb
 │   ├── NewsLDA_NonSequential
 │   └──  PolicyKeywords_LDA.ipynb
